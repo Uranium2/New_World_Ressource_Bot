@@ -1,0 +1,10 @@
+pytesseract
+pyautogui
+numpy
+matplotlib
+opencv-python
+PySimpleGUI
+pydirectinput
+keyboard
+black
+isort
